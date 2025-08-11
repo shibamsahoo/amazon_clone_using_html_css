@@ -6,14 +6,6 @@ A front-end clone of the Amazon homepage built using pure **HTML** and **CSS**. 
 
 ---
 
-## 📸 Demo
-
-![Amazon Clone Screenshot](link-to-screenshot-if-available)
-
-🔗 [Live Demo](https://your-live-demo-link.com)  
-*(Replace with your actual hosted link)*
-
----
 
 ## 🚀 Features
 
@@ -47,11 +39,5 @@ This project was created to:
 
 ---
 
-## 📌 How to Use
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/amazon-clone.git
-
-## 📁 Folder Structure
 
